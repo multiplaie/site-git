@@ -2,7 +2,7 @@
 @font-face{font-family:Inter Variable;font-style:normal;font-weight:100 900;font-display:swap;src:url(/assets/InterVariable_qDqxtwB6S7W69tcm-FSxu.woff2) format("woff2")}
 @font-face{font-family:Syne;font-style:normal;font-weight:400;font-display:swap;src:url(/assets/Syne-Regular_szvwJ6JnWSKmxaEUbfwZ7.ttf) format("truetype")}
 @layer presets{
-    :root{display:grid;min-height:100%;font-family:Arial,Roboto,sans-serif;font-size:16px;line-height:1.2;white-space:pre-wrap;white-space-collapse:preserve}
+
     a.w-element{box-sizing:border-box;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;outline-width:1px}
     body.w-element{box-sizing:border-box;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}
     div.w-element,p.w-element{box-sizing:border-box;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;outline-width:1px}
